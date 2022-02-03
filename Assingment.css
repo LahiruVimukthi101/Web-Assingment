@@ -1,19 +1,44 @@
 
 hr { display: block;
-    margin-top: 30px;
-    margin-bottom: em;
+    margin-top: 50px;
+    margin-bottom: 0em;
     margin-left: auto;
     margin-right: auto;
     border-style: solid;
     border-width: 4px;
     border-color:red;
 } 
+img.headericon{margin-top:15px;
+            margin-bottom:15px;
+             margin-left:80px;}
 
-#header{width:1500px;
-    height:50px;
+ #container{width:1500px;
+                height:1500px;}
+     
+
+#header{width:1350px;
+    height:45px;
+    margin-left:80px;
     background-color:blue;}
 
 
+  #left{width:30px;
+        height:900;margin-left:80px;
+        background-color:white;}
+  
+  
+  #right{width:30px; 
+         height:900px;margin-right:70px;
+         background-color:white;
+         float:right;}       
+  
+  
+  #footer{width:1350px;
+          height:45px;
+          margin-left:80px;
+          background-color:white;}
+  
+ h2{margin-left:85px;
 
 h1{color:red;}
 h2{color:blue};

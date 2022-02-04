@@ -9,16 +9,16 @@ hr { display: block;
     border-color:red;
 } 
 img.headericon{margin-top:15px;
-            margin-bottom:15px;
-             margin-left:80px;}
+               margin-bottom:px;
+               margin-left:80px;}
 
  #container{width:1500px;
-                height:1500px;}
+            height:1500px;}
      
 
-#header{width:1350px;
+#header{width:1360px;
     height:45px;
-    margin-left:80px;
+    margin-left:70px;
     background-color:blue;}
 
 
@@ -37,10 +37,25 @@ img.headericon{margin-top:15px;
           height:45px;
           margin-left:80px;
           background-color:white;}
-  
- h2{margin-left:85px;
+ 
+  ul{padding-top:16px;
+     padding-left:150px;}
+         
+ 
+  ul li{display:inline;
+        background-color:00AABB;
+        padding-right:20px; 
+        padding-left:20px;}
 
-h1{color:red;}
-h2{color:blue};
+  a{text-decoration:none;}
 
+  a:hover{text-decoration:underline;
+          background-color:greenyellow;}
+                
+ select{display:inline;
+        background-color:00AABB;
+        padding-right:20px;
+        padding-left:20px;}
 
+option{font-Size:10pt;}
+    

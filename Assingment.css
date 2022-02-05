@@ -1,6 +1,6 @@
 
 hr { display: block;
-    margin-top: 50px;
+    margin-top: 40px;
     margin-bottom: 0em;
     margin-left: auto;
     margin-right: auto;
@@ -13,7 +13,8 @@ img.headericon{margin-top:15px;
                margin-left:80px;}
 
  #container{width:1500px;
-            height:1500px;}
+            height:2500px;
+            background-color:;}
      
 
 #header{width:1360px;
@@ -23,20 +24,20 @@ img.headericon{margin-top:15px;
 
 
   #left{width:30px;
-        height:900;margin-left:80px;
-        background-color:white;}
+        height:2250;margin-left:80px;
+        background-color:red;}
   
   
   #right{width:30px; 
-         height:900px;margin-right:70px;
-         background-color:white;
+         height:2250px;margin-right:80px;
+         background-color:aqua;
          float:right;}       
   
   
-  #footer{width:1350px;
+  #footer{width:1360px;
           height:45px;
-          margin-left:80px;
-          background-color:white;}
+          margin-left:70px;
+          background-color:yellow;}
  
   ul{padding-top:16px;
      padding-left:150px;}
@@ -52,10 +53,4 @@ img.headericon{margin-top:15px;
   a:hover{text-decoration:underline;
           background-color:greenyellow;}
                 
- select{display:inline;
-        background-color:00AABB;
-        padding-right:20px;
-        padding-left:20px;}
-
-option{font-Size:10pt;}
-    
+ button{background-color:green}

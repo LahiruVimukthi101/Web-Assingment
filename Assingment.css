@@ -12,6 +12,10 @@ img.headericon{margin-top:15px;
                margin-bottom:px;
                margin-left:80px;}
 
+               img.headericon1{margin-top:1490px;
+                  margin-bottom:px;
+                  margin-left:00px;}
+
  #container{width:1500px;
             height:2500px;
             background-color:;}
@@ -24,12 +28,12 @@ img.headericon{margin-top:15px;
 
 
   #left{width:30px;
-        height:2250;margin-left:80px;
+        height:2300;margin-left:80px;
         background-color:red;}
   
   
   #right{width:30px; 
-         height:2250px;margin-right:80px;
+         height:2300px;margin-right:80px;
          background-color:aqua;
          float:right;}       
   
@@ -53,4 +57,7 @@ img.headericon{margin-top:15px;
   a:hover{text-decoration:underline;
           background-color:greenyellow;}
                 
- button{background-color:green}
+ button{background-color:blue;
+        font-size:20px;}
+
+        a{font-size:20px;}

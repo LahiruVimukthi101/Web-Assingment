@@ -12,17 +12,20 @@ img.headericon{margin-top:15px;
                margin-bottom:px;
                margin-left:80px;}
 
-               img.headericon1{margin-top:1490px;
+img.headericon1{margin-top:1513px;
                   margin-bottom:px;
                   margin-left:00px;}
 
+                  img.headericon2{margin-top:px;
+                                  margin-left:550px;}
+
  #container{width:1500px;
-            height:2500px;
+            height:2530px;
             background-color:;}
      
 
 #header{width:1360px;
-    height:45px;
+    height:60px;
     margin-left:70px;
     background-color:blue;}
 
@@ -39,7 +42,7 @@ img.headericon{margin-top:15px;
   
   
   #footer{width:1360px;
-          height:45px;
+          height:60px;
           margin-left:70px;
           background-color:yellow;}
  
@@ -54,10 +57,10 @@ img.headericon{margin-top:15px;
 
   a{text-decoration:none;}
 
-  a:hover{text-decoration:underline;
-          background-color:greenyellow;}
+ a:hover{text-decoration:underline;}
                 
  button{background-color:blue;
-        font-size:20px;}
+        font-size:20px; padding-left:20px;
+        margin-right:50px; padding-right:20px; }
 
-        a{font-size:20px;}
+  a{font-size:20px;}

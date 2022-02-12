@@ -1,19 +1,18 @@
 
  #container{width:1500px;
-            height:2000px;
+            height:2100px;
             background-color:;
-            background-image:url("image.jpg");
+            background-image:url(image3.png);
+            background-size:cover;
             background-position:center;
-            height:1500px;
-            background-repeat:no-repet;
-            background-size:cover;}
+            height:1500px;}
      
 
 #header{width:1360px;
-    height:60px;
+    height:70px;
     margin-left:70px;  
-    margin-top:80px;
-    background-color:blue;}
+    margin-top:50px;
+    background-color:#728FCE;}
 
 
   #left{width:30px;
@@ -24,34 +23,40 @@
   #right{width:30px; 
          height:1500px;margin-right:80px;
          background-color:aqua;
-         float:right;}       
+         float:right;
+             }       
   
   
   #footer{width:1360px;
           height:60px;
-          margin-top:0px;margin-left:70px;
+          margin-top:0px;
+          margin-left:70px;
           background-color:yellow;}
  
   ul{padding-top:16px;
+     font-size:30px;
      padding-left:150px;}
          
  
   ul li{display:inline;
-        background-color:00AABB;
+        background-color:#306EFF;
+        font-family:serif;
         padding-right:20px; 
         padding-left:20px;}
 
-  a{text-decoration:none;}
+  a{text-decoration:underline;}
 
  a:hover{text-decoration:underline;}
                 
  button{background-color:blue;
-        font-size:20px; padding-left:20px;
-        margin-right:50px; padding-right:20px; }
+        font-size:20px; 
+        padding-left:20px;
+        margin-right:50px; 
+        padding-right:20px; }
 
   a{font-size:20px;}
 
   form{padding-left:1100px;
        padding-bottom:50px;}
 
-   img.headericon{float:25px;}
+  img.logo{margin-left:920px;}

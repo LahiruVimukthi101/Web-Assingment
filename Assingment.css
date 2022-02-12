@@ -1,24 +1,18 @@
 
-hr { 
-    margin-top: 35px;
-    margin-left: auto;
-    margin-right: auto;
-    border-style: solid;
-    border-width: 4px;
-    border-color:#1E90FF;
-    padding-right:1500px;
-    position:absolute;
-} 
-
  #container{width:1500px;
-            height:2800px;
-            background-color:;}
+            height:2000px;
+            background-color:;
+            background-image:url("image.jpg");
+            background-position:center;
+            height:1500px;
+            background-repeat:no-repet;
+            background-size:cover;}
      
 
 #header{width:1360px;
     height:60px;
     margin-left:70px;  
-    margin-top:100px;
+    margin-top:80px;
     background-color:blue;}
 
 
@@ -35,7 +29,7 @@ hr {
   
   #footer{width:1360px;
           height:60px;
-          margin-left:70px;
+          margin-top:0px;margin-left:70px;
           background-color:yellow;}
  
   ul{padding-top:16px;
@@ -60,4 +54,4 @@ hr {
   form{padding-left:1100px;
        padding-bottom:50px;}
 
-   
+   img.headericon{float:25px;}

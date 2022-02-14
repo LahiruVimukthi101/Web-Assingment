@@ -17,12 +17,12 @@
 
   #left{width:30px;
         height:1500;margin-left:80px;
-        background-color:red;}
+        background-color:;}
   
   
   #right{width:30px; 
          height:1500px;margin-right:80px;
-         background-color:aqua;
+         background-color:;
          float:right;
              }       
   

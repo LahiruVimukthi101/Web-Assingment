@@ -11,7 +11,7 @@
 #header{width:1360px;
     height:70px;
     margin-left:70px;  
-    margin-top:50px;
+    margin-top:0px;
     background-color:#728FCE;}
 
 
@@ -61,4 +61,4 @@
 
   img.logo{margin-left:920px;}
 
-  img.logo1{margin-left:50px;}
+  img.logo1{margin-left:1000px;}

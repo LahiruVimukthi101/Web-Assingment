@@ -1,4 +1,2 @@
 alert("Welcome to over Donaton Web page!")
-prompt("Are you Sure login this page")
-confirm("Thank you!");
-
+document.write("<h1 align=center></h1>");

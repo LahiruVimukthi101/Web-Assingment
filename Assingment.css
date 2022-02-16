@@ -8,7 +8,7 @@
             height:1500px;}
      
 
-#header{width:1000px;
+#header{width:1360px;
     height:70px;
     margin-left:70px;  
     margin-top:0px;
@@ -49,14 +49,13 @@
  a:hover{text-decoration:underline;}
                 
  button{background-color:;
-        font-size:20px; 
-        padding-left:20px;
-        margin-right:50px; 
+        font-size:18px;         
+        margin-right:20px; 
         }
 
   a{font-size:20px;}
 
-  form{margin-left:870px;}
+  form{margin-left:1080px;margin-top:20px;}
 
   img.logo{margin-left:920px;}
 

@@ -1,6 +1,6 @@
 
  #container{width:1500px;
-            height:2100px;
+            height:1000px;
             background-color:;
             background-image:url(image3.png);
             background-size:cover;
@@ -58,3 +58,10 @@
   form{margin-left:1080px;margin-top:20px;}
 
   .headericon{margin-left:500px;}
+
+  
+P{float:left;font-size:20px;
+      width:500px;
+      margin-left:50px;
+      border:2px solid black;}
+    

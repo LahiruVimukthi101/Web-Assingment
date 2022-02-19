@@ -1,7 +1,7 @@
 
  #container{width:1500px;
-            height:1000px;
-            background-color:;
+            height:1500px;
+            background-color:red;
             background-image:url(image3.png);
             background-size:cover;
             background-position:center;
@@ -16,20 +16,19 @@
 
 
   #left{width:30px;
-        height:1500;margin-left:80px;
-        background-color:;}
+        height:1900;margin-left:80px;
+        background-color:red;}
   
   
   #right{width:30px; 
-         height:1500px;margin-right:80px;
-         background-color:;
-         float:right;
-             }       
+         height:1384px;margin-right:80px;
+         background-color:red;
+         float:right;       }       
   
   
   #footer{width:1360px;
           height:60px;
-          margin-top:0px;
+          margin-top:1500px;
           margin-left:70px;
           background-color:yellow;}
  
@@ -50,18 +49,20 @@
                 
  button{background-color:;
         font-size:18px;         
-        margin-right:20px; 
-        }
+        margin-right:20px;         }
 
   a{font-size:20px;}
 
-  form{margin-left:1080px;margin-top:20px;}
-
-  
+  form{margin-left:1100px;margin-top:00px;} 
 
   
 P{float:left;font-size:20px;
-      width:500px;
-      margin-left:50px;
+      width:380px;
+      margin-left:40px;
       border:2px solid black;}
     
+      h{font-size:30px;}
+
+      .headericon{margin-left:400px;}
+      .logo{margin-left:50px;}
+      .headericon1{}

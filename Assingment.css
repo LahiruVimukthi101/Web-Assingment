@@ -24,11 +24,25 @@
        background-color:red;
        float:right; }       
   
+<<<<<<< HEAD
 #footer{width:1360px;
         height:60px;
         margin-top:1500px;
         margin-left:70px;
         background-color:yellow;}
+=======
+  #right{width:30px; 
+         height:1384px;margin-right:80px;
+         background-color:;
+         float:right;}       
+  
+  
+  #footer{width:1360px;
+          height:60px;
+          margin-top:1500px;
+          margin-left:70px;
+          background-color:yellow;}
+>>>>>>> 61b446825367e617abf67bc3fb768f9cf71ba3c9
  
 ul{padding-top:16px;
    font-size:30px;
@@ -66,5 +80,9 @@ h{font-size:30px;}
 .logo{margin-left:50px;}
 .headericon1{margin-left:70px;}
 
+<<<<<<< HEAD
 h1{margin-left:530px;
    text-decoration:underline;}
+=======
+      h1{margin-left:530px;text-decoration:underline;}
+>>>>>>> 61b446825367e617abf67bc3fb768f9cf71ba3c9

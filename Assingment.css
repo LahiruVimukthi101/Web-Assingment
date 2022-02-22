@@ -16,12 +16,12 @@
 
 
   #left{width:30px;
-        height:1900;margin-left:80px;
+        height:800;margin-left:80px;
         background-color:red;}
   
   
   #right{width:30px; 
-         height:1384px;margin-right:80px;
+         height:800px;margin-right:80px;
          background-color:;
          float:right;}       
   
@@ -63,8 +63,10 @@ P{float:left;font-size:20px;
     
       h{font-size:30px;}
 
-      .headericon{margin-left:400px;}
-      .logo{margin-left:50px;}
-      .headericon1{margin-left:70px;}
+.headericon{margin-left:400px;}
 
-      h1{margin-left:530px;text-decoration:underline;}
+.logo{margin-left:50px;}
+
+.headericon1{margin-left:70px;}
+
+h1{margin-left:530px;text-decoration:underline;}

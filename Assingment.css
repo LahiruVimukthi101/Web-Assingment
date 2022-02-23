@@ -24,22 +24,8 @@
       margin-left:80px;
       background-color:;}  
 
-  
-#right{width:30px; 
-       height:1384px;
-       margin-right:80px;
-       background-color:;
-       float:right; }       
-  
-
-#footer{width:1360px;
-        height:60px;
-        margin-top:1500px;
-        margin-left:70px;
-        background-color:;}
-
   #right{width:30px; 
-         height:800px;margin-right:80px;
+         height:500px;margin-right:80px;
          background-color:;
          float:right;}       
   
@@ -48,7 +34,7 @@
           height:60px;
           margin-top:1500px;
           margin-left:70px;
-          background-color:;}
+          background-color:#728FCE;}
 
  
 ul{padding-top:16px;

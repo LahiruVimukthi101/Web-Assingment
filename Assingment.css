@@ -1,7 +1,7 @@
 
 #container{width:1500px;
            height:1500px;
-           background-color:red;
+           background-color:;
            background-image:url(image3.png);
            background-size:cover;
            background-position:center;
@@ -13,15 +13,22 @@
         margin-top:0px;
         background-color:#728FCE;}
 
+
+
+  #left{width:30px;
+        height:800;margin-left:80px;
+        background-color:;}
+
 #left{width:30px;
       height:1900;
       margin-left:80px;
-      background-color:red;}  
+      background-color:;}  
+
   
 #right{width:30px; 
        height:1384px;
        margin-right:80px;
-       background-color:red;
+       background-color:;
        float:right; }       
   
 
@@ -29,10 +36,10 @@
         height:60px;
         margin-top:1500px;
         margin-left:70px;
-        background-color:yellow;}
+        background-color:;}
 
   #right{width:30px; 
-         height:1384px;margin-right:80px;
+         height:800px;margin-right:80px;
          background-color:;
          float:right;}       
   
@@ -41,7 +48,7 @@
           height:60px;
           margin-top:1500px;
           margin-left:70px;
-          background-color:yellow;}
+          background-color:;}
 
  
 ul{padding-top:16px;
@@ -72,15 +79,22 @@ P{float:left;
   font-size:20px;
   width:395px;
   margin-left:40px;
-  border:2px solid black;}
+  border:2px solid ;}
     
 h{font-size:30px;}
 
 .headericon{margin-left:400px;}
+
+
+.logo{margin-left:50px;}
+
+.headericon1{margin-left:70px;}
+
+
 .logo{margin-left:50px;}
 .headericon1{margin-left:70px;}
 
 h1{margin-left:530px;
-   text-decoration:underline;}
-=======
+  text-decoration:underline;}
+
 h1{margin-left:530px;text-decoration:underline;}
